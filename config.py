@@ -3,8 +3,7 @@ import os
 class CFG:
     wandb_key = ""
     seed = 43
-    default_dir = ""
-    data_dir = ""
+    data_dir = "/content/drive/MyDrive/dataset/fodi"
   
     # input for experiment
     model = "vgg"
